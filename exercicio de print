@@ -1,2 +1,2 @@
-Nome = input('qual o seu nome gracinha: ')
+Nome = input('qual o seu nome? ')
 print(Nome,'Seja bem vindo')
